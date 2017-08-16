@@ -1,0 +1,3 @@
+List =["yawenam","foster","nicola"]
+if len(list)>3
+print
